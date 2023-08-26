@@ -1,0 +1,17 @@
+{
+    "name": "arif/crud",
+    "description": "crud functionality",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Arif\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hoquea57",
+            "email": "hoquea57@gmail.com"
+        }
+    ],
+    "require": {}
+}
